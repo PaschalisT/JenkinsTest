@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JenkinsTest">
+        <wb-resource deploy-path="/" source-path="/apps/JenkinsTest/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/JenkinsTest/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/JenkinsTest/iphone"/>
+        <property name="context-root" value="JenkinsTest"/>
+    </wb-module>
+</project-modules>
